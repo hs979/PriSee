@@ -18,7 +18,7 @@ load_dotenv()
 # 配置参数
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 DEVICE_SERIAL = os.getenv("DEVICE_SERIAL")
-APP_PACKAGE = os.getenv("APP_PACKAGE")"com.tencent.qqmusic"
+APP_PACKAGE = os.getenv("APP_PACKAGE")
 
 # 设置更详细的日志
 logging.basicConfig(
