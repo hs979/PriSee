@@ -1,0 +1,19 @@
+# 设备配置
+DEVICE_SERIAL=your_device_serial_here
+
+# API密钥
+GEMINI_API_KEY=your_gemini_api_key_here
+GEMINI_API_BASE=http://jeniya.cn
+QWEN_API_KEY=your_qwen_api_key_here
+
+# 目标应用包名
+TARGET_PACKAGE=com.example.app
+
+# 测试配置
+TEST_DURATION=403.2
+
+# 网络配置
+MAX_RETRIES=2
+BACKOFF_FACTOR=1
+TIMEOUT=300
+
