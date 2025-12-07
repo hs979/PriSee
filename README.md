@@ -1,7 +1,6 @@
 # PriSee - Android隐私设置智能检测系统
 
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 基于大语言模型的Android应用隐私泄露智能检测与对抗系统，能够自动化识别和分析移动应用中的隐私设置项，并提供隐私保护建议。
 
